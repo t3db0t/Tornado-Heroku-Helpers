@@ -1,3 +1,9 @@
 ## Tornado Heroku Starter Project
 
 This is a simple starter project for deploying a Tornado web app on Heroku.  The actual code was written by [Mike Dory](dory.me).  I rearranged the scripts and repo a bit. Full description at [Limina.Log](http://log.liminastudio.com/programming/how-i-got-a-tornado-app-running-on-heroku-in-10-seconds).  Enjoy!
+
+For generating requirements file:
+
+1.Install pipreqs using the following command:
+   -pip install pipreqs
+   -then type in pipreqs filepath/folderName/
